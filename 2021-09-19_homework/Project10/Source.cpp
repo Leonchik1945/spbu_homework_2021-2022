@@ -8,7 +8,7 @@ int main(int argc, char* argv[])
 
 	cin >> a >> b;
 
-	// я не знаю, как решить эту задачу(
+	// I don't know how to do this(
 
 
 	return EXIT_SUCCESS;
