@@ -16,5 +16,6 @@ int main(int argv, char* argc[])
 		s = s + j;
 	}
 	cout << s << endl;
+
 	return EXIT_SUCCESS;
 }

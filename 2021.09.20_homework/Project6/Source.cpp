@@ -20,5 +20,4 @@ int main(int argc, char* argv[])
 		cout << "NO";
 	}
 	return EXIT_SUCCESS;
-
 }

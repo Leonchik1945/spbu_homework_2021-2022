@@ -13,5 +13,6 @@ int main(int argc, char* argv[])
 		f = f * 2;
 	}
 	cout << f << endl;
+
 	return EXIT_SUCCESS;
 }

@@ -30,5 +30,6 @@ int main(int argv, char* argc[])
 
 	}
 	cout << pl << " " << mi << " " << nu << endl;
+
 	return EXIT_SUCCESS;
 }

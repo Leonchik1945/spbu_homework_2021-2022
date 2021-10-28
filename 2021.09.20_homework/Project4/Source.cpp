@@ -26,5 +26,4 @@ int main(int argc, char* argv[])
 		cout << "NO" << endl;
 	}
 	return EXIT_SUCCESS;
-
 }

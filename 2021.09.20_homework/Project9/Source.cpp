@@ -31,7 +31,5 @@ int main(int argc, char* argv[])
 		cout << x << " " << (y - 1) << endl;
 	}
 
-
 	return EXIT_SUCCESS;
-
 }

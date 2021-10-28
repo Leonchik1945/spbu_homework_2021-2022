@@ -1,4 +1,5 @@
 #include<iostream>
+
 using namespace std;
 
 int main(int argc, char* argv[])
@@ -16,5 +17,4 @@ int main(int argc, char* argv[])
 	cout << a << " " << b;
 
 	return EXIT_SUCCESS;
-
 }

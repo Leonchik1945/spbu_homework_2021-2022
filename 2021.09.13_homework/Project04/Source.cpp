@@ -1,4 +1,5 @@
 #include<iostream>
+
 using namespace std;
 
 int main(int argc, char* argv[])
@@ -11,5 +12,4 @@ int main(int argc, char* argv[])
 	cout << ((s + v * t) % s) % s;
 
 	return EXIT_SUCCESS;
-
 }
